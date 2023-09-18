@@ -1,0 +1,18 @@
+---
+object: set
+id: 87645e3f-e06e-4cda-9f2c-5ea9232674bc
+code: tcma
+name: Commander Anthology Tokens
+uri: https://api.scryfall.com/sets/87645e3f-e06e-4cda-9f2c-5ea9232674bc
+scryfall_uri: https://scryfall.com/sets/tcma
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atcma&unique=prints
+released_at: '2017-06-09'
+set_type: token
+card_count: 20
+parent_set_code: cma
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: cmd
+block: Commander
+icon_svg_uri: https://svgs.scryfall.io/sets/cma.svg?1694404800
